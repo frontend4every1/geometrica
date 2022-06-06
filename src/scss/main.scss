@@ -2,13 +2,16 @@
 
 // 1. Configuration and helpers
 @import
-  'config/variables',
   'config/functions',
+  'config/variables',
+  'config/maps',
   'config/mixins';
 
 // 2. Vendors
 @import
-  'vendor/normalize';
+  'vendor/normalize',
+  'config/containers',
+  'vendor/bootstrap-grid';
 
 // 3. Base stuff
 @import

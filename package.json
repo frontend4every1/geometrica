@@ -14,6 +14,7 @@
   "author": "Azamat",
   "license": "ISC",
   "devDependencies": {
+    "bootstrap": "^5.2.0-beta1",
     "browser-sync": "latest",
     "del": "latest",
     "gulp": "^4.0.2",
